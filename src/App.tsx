@@ -1,7 +1,6 @@
 import React from 'react';
-import './App.css';
 
-function App() {
+const App = () : JSX.Element => {
   return (
     <div className="App">Hello World </div>
   );
